@@ -1,4 +1,4 @@
-package rtp
+package github.com/MeloQi/rtp
 
 import (
 	"bytes"
