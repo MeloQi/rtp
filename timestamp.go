@@ -11,6 +11,16 @@ type RtpTimestamp struct {
 	rtpTimeIntervalStatisticsCnt int
 }
 
+func NewRtpTimestamp() *RtpTimestamp {
+	return &RtpTimestamp{
+		0.0,
+		0,
+		0,
+		make(map[uint64]int),
+		0,
+	}
+}
+
 //CalTimestampMs, rtpTimestamp为rtp头的时间戳; frequency为频率，视频一般为90000，返回值为从0开始的毫秒
 func (rt *RtpTimestamp) CalTimestampMs(rtpTimestamp uint64, frequency float64) int64 {
 	if rt.preRTPTimestamp == 0 { //start
