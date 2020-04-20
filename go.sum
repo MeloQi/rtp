@@ -1,5 +1,5 @@
-github.com/MeloQi/streamlib v0.0.0-20200331114921-8157f8f204a4 h1:hOmbPi1FlHmefaZkKpJC9nEm44b6qSIvvCtQ0IEc910=
-github.com/MeloQi/streamlib v0.0.0-20200331114921-8157f8f204a4/go.mod h1:eGxGqvyB6DuHp5shGFc1L4UXqZkzrWI5nWnG6tNMQlA=
+github.com/MeloQi/streamlib v0.0.0-20200407195955-4635c07923f0 h1:i6VCpXcRwbCFBRvtv48D7poLmmQeFuY2Ad0xNGAMjsg=
+github.com/MeloQi/streamlib v0.0.0-20200407195955-4635c07923f0/go.mod h1:eGxGqvyB6DuHp5shGFc1L4UXqZkzrWI5nWnG6tNMQlA=
 github.com/kr/pretty v0.1.0 h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=
 github.com/kr/pretty v0.1.0/go.mod h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo=
 github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
